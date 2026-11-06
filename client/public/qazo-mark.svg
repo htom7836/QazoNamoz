@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Qazo Namoz">
+  <rect width="512" height="512" rx="120" fill="#0b4a3b"/>
+  <path d="M256 83 286 166 369 136 339 219 422 249 339 279 369 362 286 332 256 415 226 332 143 362 173 279 90 249 173 219 143 136 226 166Z" fill="none" stroke="#c6a363" stroke-width="12" stroke-linejoin="round"/>
+  <path d="M192 335V246c0-39 29-70 64-70s64 31 64 70v89" fill="none" stroke="#fffdf7" stroke-width="19" stroke-linecap="round"/>
+  <path d="M208 335h96M226 335v-36h60v36" fill="none" stroke="#fffdf7" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="256" cy="129" r="7" fill="#fffdf7"/>
+</svg>
